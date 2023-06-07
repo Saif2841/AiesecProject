@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603113146827",
+    "project_id": "thyna-322ff",
+    "storage_bucket": "thyna-322ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603113146827:android:b2874758ebe79b0d0a8e4e",
+        "android_client_info": {
+          "package_name": "com.aiesec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603113146827-crjcgkmqhltdbjg8drh9or8vhlrkd5g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn76Rrq-uCDjevhr0tM6OH-pyiZeo9mlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603113146827-crjcgkmqhltdbjg8drh9or8vhlrkd5g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
